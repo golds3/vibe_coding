@@ -1,0 +1,31 @@
+# OS cruft
+.DS_Store
+
+# Editors / IDEs
+.idea/
+.vscode/
+
+# Python caches & artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.eggs/
+build/
+dist/
+.coverage*
+
+# Virtual environments
+.venv/
+.env/
+env/
+venv/
+
+# Application outputs / data
+outputs/
+prds/
+.pyppeteer/
